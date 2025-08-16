@@ -7,7 +7,6 @@ I'm a **Software Engineer** who is passionate about building scalable serverless
 - 🔭 **Currently working on:** Serverless Architecture products using AWS Services (Lambda, S3, DynamoDB, EC2, CloudFormation)
 - 🌱 **Currently learning:** Advanced React JS and expanding my AWS expertise
 - 💼 **Experience:** 4+ years in software development with focus on backend systems
-- 📍 **Location:** Mumbai, Maharashtra, India
 - 🎯 **Focus:** Solution-oriented programming, Agile methodology, and scalable backend systems
 
 ## 🛠️ Tech Stack
