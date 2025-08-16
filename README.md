@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/smritiyadav17/smritiyadav17/main/github-header-image.png)
+![Header](https://raw.githubusercontent.com/smritiyadav17/smritiyadav17/main/github-header-image.svg)
 # Hi there, I'm Smriti Yadav! 👋
 
 ## 🚀 About Me
