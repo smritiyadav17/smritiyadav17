@@ -1,6 +1,4 @@
 ![Header](./github_header_svg.svg)
-# Hi there, I'm Smriti Yadav! 👋
-
 ## 🚀 About Me
 
 I'm a **Software Engineer** who is passionate about building scalable serverless applications and exploring cloud technologies. With a strong foundation in backend development and AWS services, I love creating robust solutions that make a difference.
