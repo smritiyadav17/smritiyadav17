@@ -1,3 +1,4 @@
+![Header](./github-header-image.svg)
 # Hi there, I'm Smriti Yadav! 👋
 
 ## 🚀 About Me
