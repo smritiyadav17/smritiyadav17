@@ -145,10 +145,4 @@
       <animate attributeName="opacity" values="0.5;0.1;0.5" dur="3s" repeatCount="indefinite"/>
     </path>
   </g>
-  
-  <!-- Location and contact info -->
-  <g transform="translate(950, 350)" opacity="0.7">
-    <text x="0" y="0" fill="white" font-size="16" font-family="Arial">📍 Mumbai, India</text>
-    <text x="0" y="25" fill="white" font-size="16" font-family="Arial">💼 Open to opportunities</text>
-  </g>
 </svg>
